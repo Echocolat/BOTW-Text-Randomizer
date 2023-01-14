@@ -1,0 +1,14 @@
+{
+    "name_of_pack": "Bootup_EUen.pack",
+    "use_mod_file": false,
+    "file_path_only_for_mod_file": "DO NOT FORGET THE \\ OR ELSE IT WILL NOT WORK, USE ONLY IF use_mod_file IS SET TO TRUE!!!",
+    "randomize_actor_text": true,
+    "randomize_demo_text": true,
+    "randomize_event_text": true,
+    "randomize_layout_text": true,
+    "randomize_quest_text": true,
+    "randomize_shout_text": true,
+    "randomize_static_text": true,
+    "randomize_tips_text": true,
+    "randomize_all": true
+}
